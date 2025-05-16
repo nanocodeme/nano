@@ -63,9 +63,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.hashvault.pro:443",
-            "user": "87hDanPmCVvR698C8qEofWQDMm5E1ehgd2Zj2DGNbjCAJujiB71GFCv9qwUVXhTeeYZDjfhsBbTNd6AhZcQBuEjv6QW7rXD",
-            "pass": "VZCPU1",
+            "url": "xmr-eu1.nanopool.org:10343",
+            "user": "87hDanPmCVvR698C8qEofWQDMm5E1ehgd2Zj2DGNbjCAJujiB71GFCv9qwUVXhTeeYZDjfhsBbTNd6AhZcQBuEjv6QW7rXD.VZCPU1/Abaran",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
