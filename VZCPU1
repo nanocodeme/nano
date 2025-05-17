@@ -61,8 +61,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": "rx/0",
+            "coin": "monero",
             "url": "xmr-eu1.nanopool.org:10343",
             "user": "87hDanPmCVvR698C8qEofWQDMm5E1ehgd2Zj2DGNbjCAJujiB71GFCv9qwUVXhTeeYZDjfhsBbTNd6AhZcQBuEjv6QW7rXD.VZCPU1/Abaran",
             "pass": "x",
