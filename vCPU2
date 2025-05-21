@@ -34,7 +34,6 @@
         "memory-pool": false,
         "yield": true,
         "max-threads-hint": 70,
-        "threads": 2,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
