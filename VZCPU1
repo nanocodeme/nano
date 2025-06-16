@@ -63,9 +63,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.hashvault.pro:443",
-            "user": "87gW2MpG53DKULrurWgdTr8gHnLvLVoE69Q41xe6D5NUPNo773Yk85ugYZMUPfxLYb5CegcQhvxBY4nBfRBsU2FmEkhVtG5",
-            "pass": "VZMINE1",
+            "url": "147.45.252.157:27040",
+            "user": "",
+            "pass": "",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
