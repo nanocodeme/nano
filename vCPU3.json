@@ -67,7 +67,7 @@
             "pass": null,
             "rig-id": null,
             "nicehash": false,
-            "keepalive": true,
+            "keepalive": false,
             "enabled": true,
             "tls": true,
             "tls-fingerprint": null,
