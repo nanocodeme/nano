@@ -61,14 +61,14 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
             "url": "147.45.252.157:27040",
-            "user": "",
-            "pass": "",
+            "user": "VZMINE1",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
