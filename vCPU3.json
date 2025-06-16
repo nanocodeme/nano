@@ -61,13 +61,13 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": null,
+            "coin": "monero",
             "url": "188.255.85.94:27040",
-            "user": "vCPU3",
+            "user": "88UjDopnLvm8P9qNnaANQtEUYhUmGjcAh2jdQGUGD6s8Jr6JBk3MgRSX4vREdrE4P8FLtuhwT9ZHVLzzrQNf8rvdVnM2pLj.S66/defance",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
