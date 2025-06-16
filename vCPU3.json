@@ -69,7 +69,7 @@
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
@@ -84,7 +84,7 @@
     "retry-pause": 5,
     "syslog": false,
     "tls": {
-        "enabled": false,
+        "enabled": true,
         "protocols": null,
         "cert": null,
         "cert_key": null,
