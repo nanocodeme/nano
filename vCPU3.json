@@ -60,11 +60,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
-            "url": "pool.hashvault.pro:443",
-            "user": "87gW2MpG53DKULrurWgdTr8gHnLvLVoE69Q41xe6D5NUPNo773Yk85ugYZMUPfxLYb5CegcQhvxBY4nBfRBsU2FmEkhVtG5",
-            "pass": "vCPU3",
+            "url": "147.45.252.157:27040",
+            "user": "vCPU3",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
