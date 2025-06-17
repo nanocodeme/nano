@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
             "url": "188.255.85.94:27040",
             "user": "vcpu3",
