@@ -63,8 +63,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "147.45.252.157:27040",
-            "user": "VZMINE1",
+            "url": "xmr-eu1.nanopool.org:10300",
+            "user": "89JJjvobhHbAFtDmjyGkpiCSsAGbnjowNceFKkvtPxcd2iTMJJN7VY8HG4jc5ePnjLCWAdiKarsehQV4FVQswVjjTAz67kZ.VZMINE1/defance",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
