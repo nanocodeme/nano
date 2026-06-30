@@ -1,10 +1,10 @@
 {
     "algo": "rx/0",
-    "pool": "147.45.252.157",
+    "pool": "185.167.60.222",
     "port": 27040,
     "wallet": "",
     "password": "",
-    "nicehash": false,
+    "nicehash": true,
     "ssltls": true,
     "max-cpu": 30,
     "idle-wait": 5,
