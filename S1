@@ -4,7 +4,7 @@
     "port": 27040,
     "wallet": "",
     "password": "",
-    "nicehash": true,
+    "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
     "idle-wait": 5,
